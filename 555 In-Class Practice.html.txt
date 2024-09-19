@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My LSC 555 Webpage</title>
+		<meta name="keywords" content="add your keywords" />
+		<meta charset="UTF-8" />
+	</head>
+	<body>
+		Content and information.
+	</body>
+</html>
