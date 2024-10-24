@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<actorprofile>
+	<actor>
+		<name type="text">
+			Robert Downey, Jr.
+		</name>
+		<dob type="date">
+			April 4, 1965
+		</dob>
+		<height type="text">
+			5'9"
+		</height>
+	
+		<films>
+			<film>
+				<title type="text">
+					The Avengers
+				</title>
+				<releaseyear type="date">
+					2012
+				</releaseyear>
+				<role type="text">
+					Iron Man
+				</role>
+			</film>
+			<film>
+				<title type="text">
+					Iron Man 2
+				</title>
+				<releaseyear type="date">
+					2010
+				</releaseyear>
+				<role type="text">
+					Iron Man
+				</role>	
+			</film>
+			<film>
+				<title type="text">
+					Iron Man 
+				</title>
+				<releaseyear type="date">
+					2008
+				</releaseyear>
+				<role type="text">
+					Iron Man
+				</role>	
+			</film>
+			<film>
+				<title type="text">
+					Sherlock Holmes: A Game of Shadows
+				</title>
+				<releaseyear type="date">
+					2011
+				</releaseyear>
+				<role type="text">
+					Sherlock Holmes
+				</role>	
+			</film>
+			<film>
+				<title type="text">
+					Sherlock Holmes
+				</title>
+				<releaseyear type="date">
+					2009
+				</releaseyear>
+				<role type="text">
+					Sherlock Holmes
+				</role>	
+			</film>
+		</films>
+	</actor>
+	<actor>
+		<name type="text">
+			Jeremy Renner
+		</name>
+		<dob type="date">
+			January 7, 1971
+		</dob>
+		<height type="text">
+			5'9"
+		</height>
+		<films>
+			<film>
+				<title type="text">
+					The Avengers
+				</title>
+				<releaseyear type="date">
+					2012
+				</releaseyear>
+				<role type="text">
+					Hawkeye
+				</role>
+			</film>
+			<film>
+				<title type="text">
+					Mission Impossible: Ghost Protocol
+				</title>
+				<releaseyear type="date">
+					2011
+				</releaseyear>
+				<role type="text">
+					Brandt
+				</role>
+			</film>
+		</films>
+	</actor>
+	<actor>
+		<name type="text">
+			Mark Ruffalo
+		</name>
+		<dob type="date">
+			November 22, 1967
+		</dob>
+		<height type="text">
+			5'8"
+		</height>
+		<films>
+			<film>
+				<title type="text">
+					The Avengers
+				</title>
+				<releaseyear type="date">
+					2012
+				</releaseyear>
+				<role type="text">
+					Hulk
+				</role>
+			</film>
+		</films>
+	</actor>
+</actorprofile>
