@@ -71,7 +71,10 @@
   
     Unfortunately, the system's few strengths largely end there. Its primary, though least interesting, flaw is that each page takes an inordinately long time to load, and does not display any kind of visual cue to indicate that something is happening. This means that users are in the dark as to whether their action will yield an output, creating frustration and confusion. Another huge problem is that the search function on the "Search" page does not work. Inputting any term yields 0 results. A less determined user would certainly give up in that case, yielding the site useless for anyone who is looking for specific information rather than a browsing experience. Being a user with greater-than-average incentives to figure out the system, I discovered that the search function works perfectly well if used from the "Browse" page instead. The "Browse" page has its own set of issues, though; attempting to access actual documents takes far more steps than is desirable, particularly given that each action takes far too long to load. Many of the categories which needed to be independently navigated to would have been far more useful as filters or sort options. They would then be available from the first page, allowing users to quickly and efficiently seek out the required informtion.
   </p>
-
+  <img src="https://imgur.com/a/yxBmFJo" title="Step 1" alt="Benjamin T. Rome School of Music, Drama, and Art; CU Dissertations and Theses; Metropolitan School of Professional Studies">
+  <img src="https://imgur.com/a/qS0DwB4" title="Step 2" alt="Architecture Theses Projects and Theses from the School of Architecture and Planning">
+  <img src="https://imgur.com/a/rPqEzmF" title="Step 3" alt="Fall 2011; Fall 2013; Fall 2014; Restricted Access Architecture Theses Projects">
+  <img src="https://imgur.com/a/nc7v9oZ" title="Step 4" alt="Two pages of theses projects">
   <h1> 
     Heuristic Review vs. Usability Test
   </h1>
